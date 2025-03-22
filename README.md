@@ -64,11 +64,6 @@ Soy un desarrollador con experiencia en frontend y backend, enfocado en la creac
 ### 🚀 ¡Gracias por visitar mi perfil!  
 ⭐ **No olvides darle una estrella ⭐ a mis proyectos si te gustan!**  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M1guelGtz&theme=react-dark)
-![Eilert's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1guelGtz&show_icons=true&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=M1guelGtz&color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelGtz&layout=compact&theme=radical)
-
 <!---
 M1guelGtz/M1guelGtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
