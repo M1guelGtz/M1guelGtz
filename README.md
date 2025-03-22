@@ -14,21 +14,18 @@ Soy un desarrollador con experiencia en frontend y backend, enfocado en la creac
 
 ## 🛠️ Tecnologías y Herramientas  
 
-💻 **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+**Frontend:**  
+![ Angular ](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![  React  ](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-🖥️ **Backend:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+**Backend:**  
+![    Go   ](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![ Node.js ](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
-🗄️ **Bases de Datos:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-🚀 **DevOps & Herramientas:**  
-[Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+**DevOps & Herramientas:**  
+![ Docker  ](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![    Git  ](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
 
