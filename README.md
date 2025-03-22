@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M1guelGtz&theme=react-dark)
+![Eilert's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1guelGtz&show_icons=true&theme=radical)
+
 <!---
 M1guelGtz/M1guelGtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
