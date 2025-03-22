@@ -27,9 +27,8 @@ Soy un desarrollador con experiencia en frontend y backend, enfocado en la creac
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 🚀 **DevOps & Herramientas:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+[Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
 
@@ -56,8 +55,7 @@ Soy un desarrollador con experiencia en frontend y backend, enfocado en la creac
 ## 📫 Contacto  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/M1guelGtz)  
-🔗 [Portafolio](https://tu-portfolio.com)  
-📧 **Email:** miguel@tu-dominio.com  
+📧 **Email:** m.angelgtzgomez@gmail.com 
 
 ---
 
