@@ -54,15 +54,13 @@ Soy un desarrollador enfocado en la **calidad del software** y la **arquitectura
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=M1guelGtz&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=M1guelGtz&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelGtz&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M1guelGtz&theme=react-dark&area=true)
 </div>
 
 ---
