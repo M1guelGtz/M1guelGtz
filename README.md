@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ADD8&height=200&section=header&text=Miguel%20Ángel%20Gutiérrez&fontSize=70&animation=fadeIn" width="100%" />
-
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=M1guelGtz&color=blue&style=flat-square" alt="M1guelGtz" />
+  </p>
   ![Profile views](https://komarev.com/ghpvc/?username=M1guelGtz&color=blue&style=flat-square)
   
   ### 🚀 Full Stack Developer | Mobile Enthusiast | Software Architect
